@@ -1,5 +1,6 @@
 {
-  "name": "calculator",
+  "name": "hashtag",
+  "description": "An unbeatable tic-tac-toe AI.",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
